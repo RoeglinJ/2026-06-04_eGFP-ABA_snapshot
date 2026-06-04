@@ -1,5 +1,3 @@
-output_actigrams_CST/
-output_by-minute_CST/
-eGFP*/
+
 __pycache__/
 .ipynb_checkpoints/
