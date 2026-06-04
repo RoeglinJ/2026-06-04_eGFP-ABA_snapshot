@@ -1,3 +1,4 @@
-
+/output*
+/eGFP*
 __pycache__/
 .ipynb_checkpoints/
